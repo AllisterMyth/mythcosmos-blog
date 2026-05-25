@@ -7,42 +7,26 @@ This file helps language models discover the most useful content on this site.
 
 ## Home
 
-- [Elements](https://hydrogen-astro.vercel.app/elements.md): this is meta description
+- [Elements](https://allister-myth.netlify.app/elements.md): this is meta description
 
-- [Allister Myth](https://hydrogen-astro.vercel.app/.md): A casual blog about where I post anything I am working on or find interesting.
+- [Allister Myth](https://allister-myth.netlify.app/.md): A casual blog about where I post anything I am working on or find interesting.
 
 
 ## Categories
 
-- [assistant](https://hydrogen-astro.vercel.app/categories/assistant.md): A casual blog about where I post anything I am working on or find interesting.
+- [biomaths](https://allister-myth.netlify.app/categories/biomaths.md): A casual blog about where I post anything I am working on or find interesting.
 
-- [github](https://hydrogen-astro.vercel.app/categories/github.md): A casual blog about where I post anything I am working on or find interesting.
+- [life](https://allister-myth.netlify.app/categories/life.md): A casual blog about where I post anything I am working on or find interesting.
 
-- [mathematics](https://hydrogen-astro.vercel.app/categories/mathematics.md): A casual blog about where I post anything I am working on or find interesting.
+- [machine-intelligence](https://allister-myth.netlify.app/categories/machine-intelligence.md): A casual blog about where I post anything I am working on or find interesting.
 
-- [programming](https://hydrogen-astro.vercel.app/categories/programming.md): A casual blog about where I post anything I am working on or find interesting.
-
-- [technology](https://hydrogen-astro.vercel.app/categories/technology.md): A casual blog about where I post anything I am working on or find interesting.
+- [mathematics](https://allister-myth.netlify.app/categories/mathematics.md): A casual blog about where I post anything I am working on or find interesting.
 
 
 ## Posts
 
-- [How to make toys from old Olarpaper](https://hydrogen-astro.vercel.app/posts/post-1.md): A casual blog about where I post anything I am working on or find interesting.
+- [About](https://allister-myth.netlify.app/posts/post-1.md): A casual blog about where I post anything I am working on or find interesting.
 
-- [How to make toys from old Olarpaper](https://hydrogen-astro.vercel.app/posts/post-2.md): A casual blog about where I post anything I am working on or find interesting.
-
-- [What you need to know about Photography](https://hydrogen-astro.vercel.app/posts/post-3.md): A casual blog about where I post anything I am working on or find interesting.
-
-- [How to make toys from old Olarpaper](https://hydrogen-astro.vercel.app/posts/post-4.md): A casual blog about where I post anything I am working on or find interesting.
-
-- [How to make toys from old Olarpaper](https://hydrogen-astro.vercel.app/posts/post-5.md): A casual blog about where I post anything I am working on or find interesting.
-
-- [How to make toys from old Olarpaper](https://hydrogen-astro.vercel.app/posts/post-6.md): A casual blog about where I post anything I am working on or find interesting.
-
-- [How to make toys from old Olarpaper](https://hydrogen-astro.vercel.app/posts/post-7.md): A casual blog about where I post anything I am working on or find interesting.
-
-- [How to make toys from old Olarpaper](https://hydrogen-astro.vercel.app/posts/post-8.md): A casual blog about where I post anything I am working on or find interesting.
-
-- [How to make toys from old Olarpaper](https://hydrogen-astro.vercel.app/posts/post-9.md): A casual blog about where I post anything I am working on or find interesting.
+- [My First post](https://allister-myth.netlify.app/posts/post-2.md): A casual blog about where I post anything I am working on or find interesting.
 
 

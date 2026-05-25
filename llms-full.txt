@@ -1,56 +1,71 @@
 # Allister Myth
 
-URL: https://hydrogen-astro.vercel.app
+URL: https://allister-myth.netlify.app
 
-## assistant
+## biomaths
 
-URL: https://hydrogen-astro.vercel.app/categories/assistant
+URL: https://allister-myth.netlify.app/categories/biomaths
 
 A casual blog about where I post anything I am working on or find interesting.
 
 
-# assistant
+# biomaths
 
-*   [Assistant](/categories/assistant)
+*   [Mathematics](/categories/mathematics)
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
 
-02 May, 2026
+23 May, 2026
 
-## [What you need to know about Photography](/posts/post-3)
+## [My First post](/posts/post-2)
 
-[Continue Reading](/posts/post-3)
+[Continue Reading](/posts/post-2)
 
 ---
 
-## github
+## life
 
-URL: https://hydrogen-astro.vercel.app/categories/github
+URL: https://allister-myth.netlify.app/categories/life
 
 A casual blog about where I post anything I am working on or find interesting.
 
 
-# github
+# life
 
-*   [Github](/categories/github)
+*   [Life](/categories/life)
 
-13 Jan, 2026
+22 May, 2026
 
-## [How to make toys from old Olarpaper](/posts/post-4)
+## [About](/posts/post-1)
 
-[Continue Reading](/posts/post-4)
+[Continue Reading](/posts/post-1)
 
-*   [Github](/categories/github)
+---
 
-01 Jan, 2026
+## machine-intelligence
 
-## [How to make toys from old Olarpaper](/posts/post-9)
+URL: https://allister-myth.netlify.app/categories/machine-intelligence
 
-[Continue Reading](/posts/post-9)
+A casual blog about where I post anything I am working on or find interesting.
+
+
+# machine-intelligence
+
+*   [Mathematics](/categories/mathematics)
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+23 May, 2026
+
+## [My First post](/posts/post-2)
+
+[Continue Reading](/posts/post-2)
 
 ---
 
 ## mathematics
 
-URL: https://hydrogen-astro.vercel.app/categories/mathematics
+URL: https://allister-myth.netlify.app/categories/mathematics
 
 A casual blog about where I post anything I am working on or find interesting.
 
@@ -58,80 +73,20 @@ A casual blog about where I post anything I am working on or find interesting.
 # mathematics
 
 *   [Mathematics](/categories/mathematics)
-
-04 Apr, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-1)
-
-[Continue Reading](/posts/post-1)
-
----
-
-## programming
-
-URL: https://hydrogen-astro.vercel.app/categories/programming
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-# programming
-
-*   [Programming](/categories/programming)
-
-05 Mar, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-2)
-
-[Continue Reading](/posts/post-2)
-
-*   [Programming](/categories/programming)
-
-09 May, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-7)
-
-[Continue Reading](/posts/post-7)
-
----
-
-## technology
-
-URL: https://hydrogen-astro.vercel.app/categories/technology
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-# technology
-
-*   [Technology](/categories/technology)
-
-25 Feb, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-5)
-
-[Continue Reading](/posts/post-5)
-
-*   [Technology](/categories/technology)
-
-10 Jun, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-6)
-
-[Continue Reading](/posts/post-6)
-
-*   [Technology](/categories/technology)
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
 
 23 May, 2026
 
-## [How to make toys from old Olarpaper](/posts/post-8)
+## [My First post](/posts/post-2)
 
-[Continue Reading](/posts/post-8)
+[Continue Reading](/posts/post-2)
 
 ---
 
 ## Elements
 
-URL: https://hydrogen-astro.vercel.app/elements
+URL: https://allister-myth.netlify.app/elements
 
 this is meta description
 
@@ -397,7 +352,7 @@ Should you use Negative margin?
 
 ## Allister Myth
 
-URL: https://hydrogen-astro.vercel.app
+URL: https://allister-myth.netlify.app
 
 A casual blog about where I post anything I am working on or find interesting.
 
@@ -413,456 +368,74 @@ A casual blog about where I post anything I am working on or find interesting.
 *   [github](https://www.github.com/AllisterMyth)
 *   [linkedin](https://www.linkedin.com/)
 
-*   [Technology](/categories/technology)
-
-10 Jun, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-6)
-
-[Continue Reading](/posts/post-6)
-
-*   [Technology](/categories/technology)
+*   [Mathematics](/categories/mathematics)
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
 
 23 May, 2026
 
-## [How to make toys from old Olarpaper](/posts/post-8)
+## [My First post](/posts/post-2)
 
-[Continue Reading](/posts/post-8)
+[Continue Reading](/posts/post-2)
 
-*   [Programming](/categories/programming)
+*   [Life](/categories/life)
 
-09 May, 2026
+22 May, 2026
 
-## [How to make toys from old Olarpaper](/posts/post-7)
-
-[Continue Reading](/posts/post-7)
-
-*   [Assistant](/categories/assistant)
-
-02 May, 2026
-
-## [What you need to know about Photography](/posts/post-3)
-
-[Continue Reading](/posts/post-3)
-
-*   [Mathematics](/categories/mathematics)
-
-04 Apr, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-1)
+## [About](/posts/post-1)
 
 [Continue Reading](/posts/post-1)
 
-*   [Programming](/categories/programming)
-
-05 Mar, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-2)
-
-[Continue Reading](/posts/post-2)
-
-Previous1[2](/page/2)[Next](/page/2)
-
 ---
 
-## How to make toys from old Olarpaper
+## About
 
-URL: https://hydrogen-astro.vercel.app/posts/post-1
+URL: https://allister-myth.netlify.app/posts/post-1
 
 A casual blog about where I post anything I am working on or find interesting.
 
 
 [Back to Home](/)
 
-![How to make toys from old Olarpaper](/_astro/post-1.jbIp0olX_Z1U5JHt.webp)
+![About](/_astro/developer.5VnRrjsV_1RHtb5.webp)
 
-# How to make toys from old Olarpaper
+# About
+
+*   *   [Life](/categories/life)
+    |
+*   22 May, 2026 |
+*   01 Min read
+
+I am studying for a Bachelor’s in Mathematics with computing from Institute of Mathematics and Applications. I really like studying and learning mathematics especially problem solving. In high school I would spend hours and sometimes nights to try and solve some olympiad problem. Even outside of maths I worked on different linux administration and coding problems. I love the thrill of finally being able to solve a difficult problem and even if I have to search the internet and brainstorm for hours, it only gives me more motivation to continue.
+
+I am passionate about topics that bridge the gap between the abstract nature of mathematics and solving real life problems like Neural networks, Statistical Analysis etc. Due to personal reasons, Cancer Research has also been a field of heavy interest to me. I read research papers and try to keep up with leading theories and treatments. I was a fan of quantum physics when I was a kid so I have been learning a little bit of quantum computing.
+
+## Related Posts
+
+---
+
+## My First post
+
+URL: https://allister-myth.netlify.app/posts/post-2
+
+A casual blog about where I post anything I am working on or find interesting.
+
+
+[Back to Home](/)
+
+![My First post](/_astro/ChatGPT%20Image%20May%2025_%202026_%2004_16_17%20PM.CsHVZUet_10Hhxp.webp)
+
+# My First post
 
 *   *   [Mathematics](/categories/mathematics)
-    |
-*   04 Apr, 2026 |
-*   01 Min read
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Related Posts
-
----
-
-## How to make toys from old Olarpaper
-
-URL: https://hydrogen-astro.vercel.app/posts/post-2
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-[Back to Home](/)
-
-![How to make toys from old Olarpaper](/_astro/post-2.DPIhOe6b_2oCinF.webp)
-
-# How to make toys from old Olarpaper
-
-*   *   [Programming](/categories/programming)
-    |
-*   05 Mar, 2026 |
-*   01 Min read
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Related Posts
-
-*   [Programming](/categories/programming)
-
-09 May, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-7)
-
-[Continue Reading](/posts/post-7)
-
----
-
-## What you need to know about Photography
-
-URL: https://hydrogen-astro.vercel.app/posts/post-3
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-[Back to Home](/)
-
-![What you need to know about Photography](/_astro/post-3.DleQJc3O_YdaVg.webp)
-
-# What you need to know about Photography
-
-*   *   [Assistant](/categories/assistant)
-    |
-*   02 May, 2026 |
-*   01 Min read
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Related Posts
-
----
-
-## How to make toys from old Olarpaper
-
-URL: https://hydrogen-astro.vercel.app/posts/post-4
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-[Back to Home](/)
-
-![How to make toys from old Olarpaper](/_astro/post-4.DmflZbxJ_1FRpua.webp)
-
-# How to make toys from old Olarpaper
-
-*   *   [Github](/categories/github)
-    |
-*   13 Jan, 2026 |
-*   01 Min read
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Related Posts
-
-*   [Github](/categories/github)
-
-01 Jan, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-9)
-
-[Continue Reading](/posts/post-9)
-
----
-
-## How to make toys from old Olarpaper
-
-URL: https://hydrogen-astro.vercel.app/posts/post-5
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-[Back to Home](/)
-
-![How to make toys from old Olarpaper](/_astro/post-5.DkBrSW7F_ZGxFjt.webp)
-
-# How to make toys from old Olarpaper
-
-*   *   [Technology](/categories/technology)
-    |
-*   25 Feb, 2026 |
-*   01 Min read
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Related Posts
-
-*   [Technology](/categories/technology)
-
-10 Jun, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-6)
-
-[Continue Reading](/posts/post-6)
-
-*   [Technology](/categories/technology)
-
-23 May, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-8)
-
-[Continue Reading](/posts/post-8)
-
----
-
-## How to make toys from old Olarpaper
-
-URL: https://hydrogen-astro.vercel.app/posts/post-6
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-[Back to Home](/)
-
-![How to make toys from old Olarpaper](/_astro/post-6.BBoGUkzZ_2wTzRM.webp)
-
-# How to make toys from old Olarpaper
-
-*   *   [Technology](/categories/technology)
-    |
-*   10 Jun, 2026 |
-*   01 Min read
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Related Posts
-
-*   [Technology](/categories/technology)
-
-25 Feb, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-5)
-
-[Continue Reading](/posts/post-5)
-
-*   [Technology](/categories/technology)
-
-23 May, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-8)
-
-[Continue Reading](/posts/post-8)
-
----
-
-## How to make toys from old Olarpaper
-
-URL: https://hydrogen-astro.vercel.app/posts/post-7
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-[Back to Home](/)
-
-![How to make toys from old Olarpaper](/_astro/post-7.-uYT_fft_1GxAq5.webp)
-
-# How to make toys from old Olarpaper
-
-*   *   [Programming](/categories/programming)
-    |
-*   09 May, 2026 |
-*   01 Min read
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Related Posts
-
-*   [Programming](/categories/programming)
-
-05 Mar, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-2)
-
-[Continue Reading](/posts/post-2)
-
----
-
-## How to make toys from old Olarpaper
-
-URL: https://hydrogen-astro.vercel.app/posts/post-8
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-[Back to Home](/)
-
-![How to make toys from old Olarpaper](/_astro/post-8.wO513DgJ_2r1xOA.webp)
-
-# How to make toys from old Olarpaper
-
-*   *   [Technology](/categories/technology)
+    *   [BioMaths](/categories/biomaths)
+    *   [Machine Intelligence](/categories/machine-intelligence)
     |
 *   23 May, 2026 |
 *   01 Min read
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+In this blog I will post everything from the restaurant next door that I liked to the how qubits work in space. I do not want readers to feel as if this is some serious no-nonsense study blog(if you are interested in just that then sort by tags) but to feel as if you are peeking in my life and thoughts as if I am a novel character. Your time is very precious to me and as such every word I write, I think it over many times. I sincerely hope that my writing provides you with entertainment, information or else depending on the context and serves you well.
 
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Allister Myth
 
 ## Related Posts
-
-*   [Technology](/categories/technology)
-
-25 Feb, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-5)
-
-[Continue Reading](/posts/post-5)
-
-*   [Technology](/categories/technology)
-
-10 Jun, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-6)
-
-[Continue Reading](/posts/post-6)
-
----
-
-## How to make toys from old Olarpaper
-
-URL: https://hydrogen-astro.vercel.app/posts/post-9
-
-A casual blog about where I post anything I am working on or find interesting.
-
-
-[Back to Home](/)
-
-![How to make toys from old Olarpaper](/_astro/post-1.jbIp0olX_Z1U5JHt.webp)
-
-# How to make toys from old Olarpaper
-
-*   *   [Github](/categories/github)
-    |
-*   01 Jan, 2026 |
-*   01 Min read
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Related Posts
-
-*   [Github](/categories/github)
-
-13 Jan, 2026
-
-## [How to make toys from old Olarpaper](/posts/post-4)
-
-[Continue Reading](/posts/post-4)

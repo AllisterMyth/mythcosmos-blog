@@ -1,6 +1,6 @@
 ---
 title: "Elements"
-url: "https://hydrogen-astro.vercel.app/elements"
+url: "https://allister-myth.netlify.app/elements"
 description: "this is meta description
 "
 ---

@@ -1,11 +1,11 @@
 ---
-title: "mathematics"
-url: "https://allister-myth.netlify.app/categories/mathematics"
+title: "biomaths"
+url: "https://allister-myth.netlify.app/categories/biomaths"
 description: "A casual blog about where I post anything I am working on or find interesting.
 "
 ---
 
-# mathematics
+# biomaths
 
 *   [Mathematics](/categories/mathematics)
 *   [BioMaths](/categories/biomaths)
