@@ -1,23 +1,14 @@
 ---
-title: How to make toys from old Olarpaper
-date: 2026-03-05T05:00:00Z
-image: /images/posts/post-2.jpg
+title: "My First post"
+date: 2026-05-23T05:00:00Z
+image: /images/ChatGPT Image May 25, 2026, 04_16_17 PM.png
 categories:
-  - Programming
-
+  - Mathematics
+  - BioMaths
+  - Machine Intelligence
 draft: false
 ---
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+In this blog I will post everything from the restaurant next door that I liked to the how qubits work in space. I do not want readers to feel as if this is some serious no-nonsense study blog(if you are interested in just that then sort by tags) but to feel as if you are peeking in my life and thoughts as if I am a novel character. Your time is very precious to me and as such every word I write, I think it over many times. I sincerely hope that my writing provides you with entertainment, information or else depending on the context and serves you well.
 
-#### Covid-19 Situation
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Work From Home
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+ Allister Myth
