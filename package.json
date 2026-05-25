@@ -1,5 +1,6 @@
 {
   "name": "mythcosmos-blog",
+  "homepage": "https://AllisterMyth.github.io/mythcosmos-blog",
   "version": "3.0.1",
   "description": "Astro and Tailwindcss Personal Blog Starter",
   "author": "statichunt",
@@ -7,12 +8,11 @@
   "packageManager": "yarn@1.22.22",
   "scripts": {
     "dev": "astro dev",
+    "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "format": "prettier -w ./src",
-    "deploy:cf-workers": "npm run build && wrangler deploy",
-    "preview:cf-workers": "npm run build && wrangler dev",
-    "check": "astro check"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@astrojs/mdx": "5.0.4",
@@ -46,6 +46,7 @@
     "@types/react-dom": "19.2.3",
     "astro-llms-md": "^2.0.0",
     "eslint": "^10.3.0",
+    "gh-pages": "^6.3.0",
     "prettier": "^3.8.3",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.8.0",
