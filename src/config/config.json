@@ -4,7 +4,7 @@
     "base_url": "https://hydrogen-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/developer.png"
+    "favicon": "/images/developer.jpeg"
   },
 
   "settings": {
@@ -13,15 +13,15 @@
   },
 
   "profile": {
-    "name": "Michael Caine",
-    "image": "/images/developer.png",
-    "designation": "Front-end developer",
-    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
+    "name": "Allister Myth",
+    "image": "/images/developer.jpeg",
+    "designation": "Exploring Life, Mathematics and their Intersections",
+    "bio": "A casual blog about where I post anything I am working on or find interesting."
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2026 a theme by [statichunt](https://statichunt.com)"
+    "copyright": "Hope you have a great day! Allister Myth"
   },
 
   "google_tag_manager": {
@@ -36,8 +36,8 @@
   },
 
   "metadata": {
-    "meta_author": "Statichunt",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_author": "AllisterMyth",
+    "meta_image": "/images/developer.jpeg",
+    "meta_description": "A casual blog about where I post anything I am working on or find interesting."
   }
 }
