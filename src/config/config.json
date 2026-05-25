@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Hydrogen Astro",
-    "base_url": "https://hydrogen-astro.vercel.app",
+    "base_url": "https://allister-myth.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/developer.jpeg"
