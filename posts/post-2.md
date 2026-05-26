@@ -23,3 +23,20 @@ In this blog I will post everything from the restaurant next door that I liked t
 Allister Myth
 
 ## Related Posts
+
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+24 May, 2026
+
+## [I made a Cancer Prediction model](/posts/post-3)
+
+[Continue Reading](/posts/post-3)
+
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+25 May, 2026
+
+## [Problems with AI web development](/posts/post-4)
+
+[Continue Reading](/posts/post-4)

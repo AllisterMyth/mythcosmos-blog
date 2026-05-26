@@ -21,6 +21,15 @@ A casual blog about where I post anything I am working on or find interesting.
 
 [Continue Reading](/posts/post-2)
 
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+24 May, 2026
+
+## [I made a Cancer Prediction model](/posts/post-3)
+
+[Continue Reading](/posts/post-3)
+
 ---
 
 ## life
@@ -39,6 +48,14 @@ A casual blog about where I post anything I am working on or find interesting.
 ## [About](/posts/post-1)
 
 [Continue Reading](/posts/post-1)
+
+*   [Life](/categories/life)
+
+26 May, 2026
+
+## [Marshall Mode Usb- C earphones Review](/posts/post-5)
+
+[Continue Reading](/posts/post-5)
 
 ---
 
@@ -60,6 +77,23 @@ A casual blog about where I post anything I am working on or find interesting.
 ## [My First post](/posts/post-2)
 
 [Continue Reading](/posts/post-2)
+
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+24 May, 2026
+
+## [I made a Cancer Prediction model](/posts/post-3)
+
+[Continue Reading](/posts/post-3)
+
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+25 May, 2026
+
+## [Problems with AI web development](/posts/post-4)
+
+[Continue Reading](/posts/post-4)
 
 ---
 
@@ -368,6 +402,31 @@ A casual blog about where I post anything I am working on or find interesting.
 *   [github](https://www.github.com/AllisterMyth)
 *   [linkedin](https://www.linkedin.com/)
 
+*   [Life](/categories/life)
+
+26 May, 2026
+
+## [Marshall Mode Usb- C earphones Review](/posts/post-5)
+
+[Continue Reading](/posts/post-5)
+
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+25 May, 2026
+
+## [Problems with AI web development](/posts/post-4)
+
+[Continue Reading](/posts/post-4)
+
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+24 May, 2026
+
+## [I made a Cancer Prediction model](/posts/post-3)
+
+[Continue Reading](/posts/post-3)
+
 *   [Mathematics](/categories/mathematics)
 *   [BioMaths](/categories/biomaths)
 *   [Machine Intelligence](</categories/machine intelligence>)
@@ -412,6 +471,14 @@ I am passionate about topics that bridge the gap between the abstract nature of 
 
 ## Related Posts
 
+*   [Life](/categories/life)
+
+26 May, 2026
+
+## [Marshall Mode Usb- C earphones Review](/posts/post-5)
+
+[Continue Reading](/posts/post-5)
+
 ---
 
 ## My First post
@@ -439,3 +506,176 @@ In this blog I will post everything from the restaurant next door that I liked t
 Allister Myth
 
 ## Related Posts
+
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+24 May, 2026
+
+## [I made a Cancer Prediction model](/posts/post-3)
+
+[Continue Reading](/posts/post-3)
+
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+25 May, 2026
+
+## [Problems with AI web development](/posts/post-4)
+
+[Continue Reading](/posts/post-4)
+
+---
+
+## I made a Cancer Prediction model
+
+URL: https://allister-myth.netlify.app/posts/post-3
+
+A casual blog about where I post anything I am working on or find interesting.
+
+
+[Back to Home](/)
+
+![I made a Cancer Prediction model](/_astro/B1.Dco5V2_d_1s757a.webp)
+
+# I made a Cancer Prediction model
+
+*   *   [BioMaths](/categories/biomaths)
+    *   [Machine Intelligence](/categories/machine-intelligence)
+    |
+*   24 May, 2026 |
+*   03 Mins read
+
+I’ve been really big into cancer research using machine intelligence lately. It all started when I heard about the man who cured his dog of cancer using AI. In short he scanned all the DNA abnormalities that the cancer cells had and made custom medicine that taught body’s army, the immune system to identify all cells with these particular abnormalities as enemies. If you want more details, I will put a link at the end. Now I was very inspired to create something that actually helped in any form in cancer research. As I later realised, that thought was much too naive.
+
+The biggest issue or so I thought in the beginning was which model to choose. At first I made a model that took regular blood tests and flagged any abnormal pattern using Gradient Boosted Trees but that was too simple and started underfitting. The main constraint was feature extraction as in defining features which are essentially just mathematical functions to get more value from raw data. Problem is it’s hard to notice real features on a small dataset without knowing biology. I tried teaching myself more about cancer markers in blood biopsy but ultimately gave up due to inefficiency. It was taking more time for me to understand biology than to understand machine learning. I felt moving to a more ML heavy problem might be optimal.
+
+As I searched for a new problem statement, I learnt a lot more about general ML models and theories. Here I came to know about the two biggest constraints, Data and Compute. I realised that making a model or rather choosing a model was the easy bit. The hard part was training the model on good data and reducing the compute used. It turns out that good datasets related to cancer were relatively low on sites like Kaggle and the best database was NIH cancer db. Even on NIH cancer db you would need certain permissions which you can only get as a ML researcher. During my hunt, I came across Sybil AI by MIT. It was a CNN ResNet model that predicted cancer risk in the next few years with above 80% accuracy. It was trained on a big NLHS db on NIH. It only took CT scan images and a lot had changed since when it was made in Jan 2023.
+
+I finally found my problem; I wanted to make a model that would predict future cancer risk like Sybil but unlike sybil would take blood biopsy, diagnosis along with CT scans as input which would in theory boost the accuracy and detection rate. I used a Resnet-Swin tiny hybrid with pretrained weights for CT scan and retrained Clinical BERT for reading diagnosis. A gated method is used for multimodal fusion which essentially decides by itself which model’s decision making would be prioritised for what kind of patient. I trained the model on a small synthetic dataset made from NLHS db. Unlike Sybil, this model can work for any specific type of cancer if trained on relative data. I truly hope this model becomes something useful even if just as an inspiration for you or me to develop further models on. Although for now it serves as more of a proof of concept than a usable model.
+
+Thank you for giving me your time and have a nice day.
+
+Allister Myth
+
+Check out my project: [https://github.com/AllisterMyth/Multimodal-Cancer-Prediction.git](https://github.com/AllisterMyth/Multimodal-Cancer-Prediction.git) The man who cured his dog: [https://www.forbes.com/sites/johnwerner/2026/04/05/he-solved-his-dogs-cancer-three-ai-models-helped/](https://www.forbes.com/sites/johnwerner/2026/04/05/he-solved-his-dogs-cancer-three-ai-models-helped/)
+
+## Related Posts
+
+*   [Mathematics](/categories/mathematics)
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+23 May, 2026
+
+## [My First post](/posts/post-2)
+
+[Continue Reading](/posts/post-2)
+
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+25 May, 2026
+
+## [Problems with AI web development](/posts/post-4)
+
+[Continue Reading](/posts/post-4)
+
+---
+
+## Problems with AI web development
+
+URL: https://allister-myth.netlify.app/posts/post-4
+
+A casual blog about where I post anything I am working on or find interesting.
+
+
+[Back to Home](/)
+
+![Problems with AI web development](/_astro/web.pfN5J4uD_27aKC2.webp)
+
+# Problems with AI web development
+
+*   *   [Machine Intelligence](/categories/machine-intelligence)
+    |
+*   25 May, 2026 |
+*   02 Mins read
+
+I wanted to make a portfolio website a few days back and made the mistake of relying on AI. I had made a website before but thanks to every top result shown on google, I got convinced that making my site with AI was a good idea.
+
+So I started simple, went on Claude and asked it to make a site. All good; the website is ready and looks okay but needs something more. So I spend the next few minutes customising the site with Claude of course. The site looks sleek and I feel great. Then I thought why not make a blog page (this one didn’t exist back then) and that was the beginning of the end. It did make a blog page, nice and good looking. The only issue was that the blogs were hardcoded in the code so every time I had to write a blog I would need to update the main code of the blog which as you probably guessed would become huge in just a few days. So I asked it to make a dynamic blog and it suggested to use react for that. Down goes the whole thing as I begin to start generating the whole code again with react and fine tuning it.
+
+Eventually I did make the whole site again. I ran it on localhost and everything worked great. So I pushed it on a Github repo. White screen…. Nothing. Back to AI to try and debug it. Apparently some router issue for the blog page. The AI suggests a fix, I do it. Now even the localhost is dead. Asked the AI to fix it, it tells me a single page is enough for my site, I shouldn’t have made a blog page which it told me was a great idea at start. So I slowly try to debug it using different AIs. A few hours wasted on this and I realise the biggest issue, the AI itself. Whenever I made a request to debug, say X feature is not working sometimes instead of correcting the X feature, it would try to delete the X feature or change its code so it looks good on surface but doesn’t work properly which would cause even more debugging problems. I was getting frustrated and became adamant on fixing the site. But the site was cooked, the main code stopped making sense to me as yet another beautiful feature of AI writing is how it doesn’t follow normal code writing style and uses obscure functions. All the main code…. Delete.
+
+Third time’s the charm ey. So I start writing the code the third time. This time mainly by myself just asking basic questions regarding react from AI. I used Astro for the blog site and it took me a few hours but finally made the site with clean code and a good blog site. By the end, the time it took for me to make the site myself was less than the time I used AI. I now understand why developers dislike AI. For complex tasks, if used without careful guardrails, it creates more issues than solutions. Learning and doing stuff yourself is more fun anyways instead of idly looking at your screen hoping that AI will fix things.
+
+Allister Myth
+
+## Related Posts
+
+*   [Mathematics](/categories/mathematics)
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+23 May, 2026
+
+## [My First post](/posts/post-2)
+
+[Continue Reading](/posts/post-2)
+
+*   [BioMaths](/categories/biomaths)
+*   [Machine Intelligence](</categories/machine intelligence>)
+
+24 May, 2026
+
+## [I made a Cancer Prediction model](/posts/post-3)
+
+[Continue Reading](/posts/post-3)
+
+---
+
+## Marshall Mode Usb- C earphones Review
+
+URL: https://allister-myth.netlify.app/posts/post-5
+
+A casual blog about where I post anything I am working on or find interesting.
+
+
+[Back to Home](/)
+
+# Marshall Mode Usb- C earphones Review
+
+*   *   [Life](/categories/life)
+    |
+*   26 May, 2026 |
+*   02 Mins read
+
+I am mainly writing this as I could not find any good reviews for this product when I was purchasing it. I will try to cover everything (looks, build, price, sound quality) as much as possible and provide a comparison with other IEMs.
+
+## LOOKS
+
+It’s fairly good looking, not as artistic as Tangzu Waner but still very sleek with gold and black colour. It’s almost identical to the OG Marshall Mode EQ except for the usb-C. I like it but then again looks never bother me much.
+
+## BUILD
+
+The build quality is really good for the earbuds compared to other IEMs in a similar bracket. Yet the wire feels a little thin. The usb-C port is connected nicely so chances of wire breaking at joint are low. At some point, I was really worried about the longevity of my IEMs but after a lot of research, I came to the conclusion that the more you use them the faster they die and generally last 1-3 years for heavy users like me. Chifi IEMs often last shorter. I now consider buying them more of a service than a product with the warranty lasting nearly its lifespan.
+
+## PRICE
+
+I got these for 4500 INR for a year long warranty from Amazon but it’s better to get from the official site at nearly the same price for a 2 year warranty. They are at the edge of this bracket of IEMs.
+
+## SOUND
+
+Finally the main factor. In short they sound great. They have a very V-shaped curve (high bass, high treble). The bass is tight and sound is clear. I will link the sound curve at the bottom for technical people. The equaliser works for at least a range of 5db at all bands without any noticeable drop in audio quality. Since the wire is not detachable, that decreases noise a lot. The impedance is low so it actually feels like a speaker is going off in your head. I personally dislike chasing sound signatures of IEMs rather than the music itself so it’s great for me. In general, I would consider this the best IEM to get into music. Click [https://squig.link/lab/hana/?share=Mode\_EQ,5128\_DF\_Target](https://squig.link/lab/hana/?share=Mode_EQ,5128_DF_Target) for the sound curve.
+
+Please put your questions in the comments.
+
+Allister Myth
+
+## Related Posts
+
+*   [Life](/categories/life)
+
+22 May, 2026
+
+## [About](/posts/post-1)
+
+[Continue Reading](/posts/post-1)

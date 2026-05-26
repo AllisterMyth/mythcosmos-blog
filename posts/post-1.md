@@ -21,3 +21,11 @@ I am studying for a Bachelor’s in Mathematics with computing from Institute of
 I am passionate about topics that bridge the gap between the abstract nature of mathematics and solving real life problems like Neural networks, Statistical Analysis etc. Due to personal reasons, Cancer Research has also been a field of heavy interest to me. I read research papers and try to keep up with leading theories and treatments. I was a fan of quantum physics when I was a kid so I have been learning a little bit of quantum computing.
 
 ## Related Posts
+
+*   [Life](/categories/life)
+
+26 May, 2026
+
+## [Marshall Mode Usb- C earphones Review](/posts/post-5)
+
+[Continue Reading](/posts/post-5)
